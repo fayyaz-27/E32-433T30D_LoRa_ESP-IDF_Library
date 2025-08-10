@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # E32-433T30D LoRa Driver (ESP-IDF)
 
 This repository provides a custom ESP-IDF driver and example code for the **EByte's E32-433T30D LoRa** module interfaced with ESP32. It demonstrates UART-based wireless communication between two ESP32 boards using LoRa technology by transmitting message strings.
